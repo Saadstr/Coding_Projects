@@ -1,4 +1,3 @@
-// Written by Salee036
 public class WindChill {
     public static void main(String[] args) {        
         float temp = Float.parseFloat(args[0]);
